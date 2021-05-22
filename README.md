@@ -13,5 +13,5 @@ ex. LCD모듈이 연결되어있다면 LCD로도 출력!
 
 ### 결과
 ![결과](https://user-images.githubusercontent.com/3052898/119228391-c3653d80-bb4d-11eb-895b-8d1b709e3075.png)
-![펌프](https://media.giphy.com/media/u4HWnmdW3z67FHl3Jw/giphy.gif)
+![펌프](https://media.giphy.com/media/1cJdGdo8gr6vS5diJZ/giphy.gif)
 <!-- <img src="https://media.giphy.com/media/u4HWnmdW3z67FHl3Jw/giphy.gif" width="40" height="40" /> -->
