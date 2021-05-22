@@ -11,7 +11,13 @@
 3. Bluetooth로 연결한다면 HC05를 찾아서 비밀번호 1234입력!
 ex. LCD모듈이 연결되어있다면 LCD로도 출력!
 
+
 ### 결과
+- 거치되어서 24시간동안 빛을 주었음
+
 ![결과](https://user-images.githubusercontent.com/3052898/119228391-c3653d80-bb4d-11eb-895b-8d1b709e3075.png)
-![펌프](https://media.giphy.com/media/1cJdGdo8gr6vS5diJZ/giphy.gif)
+
+- 토양습도가 일정 이하이면 펌프로 물을 공급
+
+![펌프](https://media.giphy.com/media/9LgPYr5UGtgXKHFTlP/giphy.gif)
 <!-- <img src="https://media.giphy.com/media/u4HWnmdW3z67FHl3Jw/giphy.gif" width="40" height="40" /> -->
